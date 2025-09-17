@@ -1,0 +1,17 @@
+# 📊 Task 5: Data Analysis on CSV Files
+
+## 🎯 Objective
+Analyze sales data using **Pandas** and generate insights with simple visualizations.
+
+## 🛠️ Tools & Libraries
+- Python  
+- Pandas  
+- Matplotlib  
+- Jupyter Notebook / Google Colab  
+
+## 📂 Steps Performed
+1. Loaded CSV file using `pandas.read_csv()`.
+2. Explored the dataset using `.head()`, `.shape`, `.info()`.
+3. Used `groupby()` and `sum()` to aggregate sales data.
+4. Visualized results with `matplotlib` (bar chart, pie chart).
+5. Gained insights
